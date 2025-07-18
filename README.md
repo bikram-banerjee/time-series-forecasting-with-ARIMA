@@ -18,9 +18,7 @@ The goal of this project is to:
 
 ## 📊 Dataset Description
 
-> 📁 The dataset used in this project is likely a univariate time series (e.g., monthly sales, temperature, etc.). The file contains a time column (e.g., Date/Month/Year) and a target variable to forecast (e.g., sales/temperature/etc.).
-
-**Note**: Please update the specific dataset source and description in this section if it's public or taken from Kaggle/UCI/etc.
+> 📁 The dataset used in this project is yfinance dataset which is a univariate time series (e.g., monthly sales, temperature, etc.). The file contains a time column (e.g., Date/Month/Year) and a target variable to forecast (e.g., sales/temperature/etc.).
 
 ---
 
