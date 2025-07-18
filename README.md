@@ -59,4 +59,4 @@ Follow the steps below to set up and run the notebook locally:
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/bikram-banerjee/time-series-forecasting-with-ARIMA.git
-cd time-series-forecasting-arima
+cd time-series-forecasting-with-ARIMA
