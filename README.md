@@ -48,7 +48,7 @@ This notebook uses the following techniques:
 6. **Forecasting**
    - Forecasting future values
    - Plotting forecast vs actual
-   - Evaluation using RMSE/MAE/MAPE (update if used)
+   - Evaluation using RMSE/MAE/MAPE
 
 ---
 
